@@ -1,0 +1,9 @@
+systems:
+- id: test-sys
+  name: Test System
+  topology: single
+endpoints:
+- slug: test-ep
+  description: test
+  contract: []
+  system_id: test-sys
